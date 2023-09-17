@@ -1,16 +1,17 @@
-# brainfit
+# Cakes ordering app - Flutter UI
 
-A new Flutter project.
+### Cakes App Final UI
 
-## Getting Started
+<div style="display: inline-block;">
+    <img width="400" height="700" alt="Login" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/github/Screenshot_20220615-155331.jpeg">
+    <img width="400" height="700" alt="Cart" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/github/Screenshot_20220721-213119.jpeg">
+    <img width="400" height="700" alt="Cart" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/github/IMG-20220902-WA0014.jpeg">
+    <img width="400" height="700" alt="Cart" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/github/IMG-20220902-WA0014.jpeg">
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: inline-block;">
+    <img width="400" height="700" alt="Login" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/github/Screenshot_20220902-232637.jpeg">
+    <img width="400" height="700" alt="Cart" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/github/Screenshot_20220721-213346.jpeg">
+    <img width="400" height="700" alt="Cart" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/github/Screenshot_20220902-232649.jpeg">
+    <img width="400" height="700" alt="Cart" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/github/Screenshot_20220721-213005.jpeg">
+</div>
