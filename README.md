@@ -1,6 +1,6 @@
-# Cakes ordering app - Flutter UI
+# Brain fit app - Flutter UI
 
-### Cakes App Final UI
+### App Final UI
 
 <div style="display: inline-block;">
     <img width="300" height="600" alt="Login" src="https://raw.githubusercontent.com/kartikmalhotra/fithuman/master/assets/Screenshot_20220615-155331.jpeg">
