@@ -28,18 +28,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>com.googleusercontent.apps.391749015417-ua7hd25v9c7e6khnkn3p1rq33c3bk0ou</string>
-				<string>fb622379722655886</string>
-			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
-	<key>FacebookAppID</key>
-	<string>622379722655886</string>
-	<key>FacebookClientToken</key>
-	<string>EAAI2DRJIyI4BAGBGwkolrV1AZBoKli5KOZBJPZAzf9VsFzeI7YlHqZAkPCskBKyYKJCGzqWzjSE6F3u5ZAn2Kz1LFjjCWEJ0Sqy65iYjJVec2TfkLgKbccSyeR51xb6U3hC9KiEjjZC6ZCQi86q7gGMX2ClWn4hRqPo814ajo2ZCyIKJxXMTaT2</string>
 	<key>FacebookDisplayName</key>
 	<string>Growth Network</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
