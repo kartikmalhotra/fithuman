@@ -1,0 +1,6 @@
+<resource>
+    <string name="facebook_app_id">622379722655886</string>
+    <string name="fb_login_protocol_scheme">fb622379722655886</string>
+    <string name="facebook_client_token">badf1e405e62ba2c1bf8cc6cacea47d3</string>
+    <string name="app_name">Growth Network</string>
+</resource>
